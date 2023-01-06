@@ -10,7 +10,7 @@ Projeto desenvolvido para o curso Grodev, nele é possível gerenciar suas finan
 
 ---
 
-![ Tela do Home ](Projeto-Growdev-Nikel-main/img/pag_home.png)
+![ Tela do Home ](Projeto-Growdev-Nikel-main/blob/master/img/pag_login.png)
 
 ---
 
